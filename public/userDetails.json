@@ -1,0 +1,20 @@
+[
+  {
+    "user-name": "girishkamat",
+    "login-id": "girishkamat23",
+    "password": "girish@123",
+    "account-no": 1
+  },
+  {
+    "user-name": "moiezshaikh",
+    "login-id": "moiezshaikh16",
+    "password": "moiez@123",
+    "account-no": 2
+  },
+  {
+    "user-name": "gaurishkamat",
+    "login-id": "gaurishkamat23",
+    "password": "gaurish@123",
+    "account-no": 3
+  }
+]
